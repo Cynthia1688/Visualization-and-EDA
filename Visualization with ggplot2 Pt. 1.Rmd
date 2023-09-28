@@ -1,0 +1,18 @@
+---
+title: "Visualization_and_EDA"
+author: "Yangyang Chen"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+
+## Including Plots
+
+
